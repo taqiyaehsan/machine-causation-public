@@ -25,7 +25,7 @@ Our system works in four stages:
    A high-confidence model of how the environment behaves.
 
 <p align="center">
-  <img src="figures/final_dag.png" alt="Final DAG" width="600"/>
+  <img src="learned_dag_ours.png" alt="Final DAG" width="600"/>
 </p>
 
 ---
