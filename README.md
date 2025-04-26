@@ -14,6 +14,10 @@ Enable smarter building automation by identifying *true cause-effect relationshi
 
 ## 🏗️ System Overview
 
+<p align="center">
+  <img src="real-world-application-sketch.png" alt="Final DAG" width="600"/>
+</p>
+
 Our system works in four stages:
 1. **Hypothesis Generation**  
    Using PC, SAM, and GPT-based prompts to suggest potential causal edges.
@@ -38,7 +42,7 @@ Stop by and see if you can outsmart our model!
 
 ## 🧠 Want to Learn More?
 
-- 📄 [Read our paper](link-to-pdf-or-publication)
+- 📄 [Read our paper](machine_causation_rutgers_day.pdf)
 - 💻 Built with Python, causal-learn, and EnergyPlus
 - 🏛️ Developed at Rutgers University, ECE Department
 
